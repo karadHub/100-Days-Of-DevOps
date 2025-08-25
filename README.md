@@ -6,6 +6,6 @@ This repository contains my solutions for each day of the challenge. Each day's 
 
 Stay tuned for daily updates and hands-on DevOps learning!
 
-| Day   | Topic                                       | Solution Link  |
-| ----- | ------------------------------------------- | -------------- |
-| Day 1 | Linux User Setup with Non-Interactive Shell | [Day01](Day01) |
+| Days  | Topic                                       | Solution Link              |
+| ----- | ------------------------------------------- | -------------------------- |
+| Day 1 | Linux User Setup with Non-Interactive Shell | [Day 1](Day%201/README.md) |
