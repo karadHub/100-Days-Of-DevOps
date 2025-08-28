@@ -6,12 +6,13 @@ This repository contains my solutions for each day of the challenge. Each day's 
 
 Stay tuned for daily updates and hands-on DevOps learning!
 
-| Days  | Topic                                       | Solution Link                                                |
-| ----- | ------------------------------------------- | ------------------------------------------------------------ |
-| Day 1 | Linux User Setup with Non-Interactive Shell | [Day 1](Day%201/README.md)                                   |
-| Day 2 | Temporary User Setup with Expiry            | [Day 2](Day%202/Temporary%20User%20Setup%20with%20Expiry.md) |
-| Day 3 | Secure Root SSH Access                      | [Day 3](Day%203/Secure%20Root%20SSH%20Access.md)             |
-| Day 4 | Script Execution Permissions                | [Day 4](Day%204/Script%20Execution%20Permissions.md)         |
+| Days  | Topic                                       | Solution Link                                                    |
+| ----- | ------------------------------------------- | ---------------------------------------------------------------- |
+| Day 1 | Linux User Setup with Non-Interactive Shell | [Day 1](Day%201/README.md)                                       |
+| Day 2 | Temporary User Setup with Expiry            | [Day 2](Day%202/Temporary%20User%20Setup%20with%20Expiry.md)     |
+| Day 3 | Secure Root SSH Access                      | [Day 3](Day%203/Secure%20Root%20SSH%20Access.md)                 |
+| Day 4 | Script Execution Permissions                | [Day 4](Day%204/Script%20Execution%20Permissions.md)             |
+| Day 5 | SELinux Installation and Configuration      | [Day 5](Day%205/SElinux%20Installation%20and%20Configuration.md) |
 
 ## Express Your Support
 
