@@ -13,6 +13,7 @@ Stay tuned for daily updates and hands-on DevOps learning!
 | Day 3 | Secure Root SSH Access                      | [Day 3](Day%203/Secure%20Root%20SSH%20Access.md)                 |
 | Day 4 | Script Execution Permissions                | [Day 4](Day%204/Script%20Execution%20Permissions.md)             |
 | Day 5 | SELinux Installation and Configuration      | [Day 5](Day%205/SElinux%20Installation%20and%20Configuration.md) |
+| Day 6 | Create a Cron Job                            | [Day 6](Day%206/Create%20a%20Cron%20Job.md)                      |
 
 ## Express Your Support
 
