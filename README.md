@@ -16,6 +16,7 @@ Stay tuned for daily updates and hands-on DevOps learning!
 | Day 6 | Create a Cron Job                           | [Day 6](Day%206/Create%20a%20Cron%20Job.md)                      |
 | Day 7 | Linux SSH Authentication                    | [Day 7](Day%207/Linux-SSH-Authentication.md)                     |
 | Day 8 | Install Ansible                             | [Day 8](Day%208/Install%20Ansible.md)                            |
+| Day 9 | MariaDB Troubleshooting                     | [Day 9](Day%209/MariaDB-Troubleshooting.md)                      |
 
 ## Express Your Support
 
