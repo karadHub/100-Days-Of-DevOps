@@ -18,7 +18,8 @@ Stay tuned for daily updates and hands-on DevOps learning!
 | Day 8  | Install Ansible                             | [Day 8](Day%208/Install%20Ansible.md)                            |
 | Day 9  | MariaDB Troubleshooting                     | [Day 9](Day%209/MariaDB-Troubleshooting.md)                      |
 | Day 10 | Website Media Backup Script                 | [Day 10](Day%2010/Linux-Bash-Scripts.md)                         |
-| Day 11 | Install & Configure Tomcat Server           | [Day 11](Day%2011/Install-Configure-Tomcat-Server.md)           |
+| Day 11 | Install & Configure Tomcat Server           | [Day 11](Day%2011/Install-Configure-Tomcat-Server.md)            |
+| Day 12 | Linux Network Services                      | [Day 12](Day%2012/Linux-Network-Services.md)                     |
 
 ## Express Your Support
 
