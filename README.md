@@ -21,6 +21,7 @@ Stay tuned for daily updates and hands-on DevOps learning!
 | Day 11 | Install & Configure Tomcat Server           | [Day 11](Day%2011/Install-Configure-Tomcat-Server.md)               |
 | Day 12 | Linux Network Services                      | [Day 12](Day%2012/Linux-Network-Services.md)                        |
 | Day 13 | IPtables Installation And Configuration     | [Day 13](Day%2013/IPtables%20Installation%20And%20Configuration.md) |
+| Day 14 | Linux Process Troubleshooting               | [Day 14](Day%2014/Linux%20Process%20Troubleshooting.md)             |
 
 ## Express Your Support
 
