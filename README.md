@@ -22,6 +22,7 @@ Stay tuned for daily updates and hands-on DevOps learning!
 | Day 12 | Linux Network Services                      | [Day 12](Day%2012/Linux-Network-Services.md)                        |
 | Day 13 | IPtables Installation And Configuration     | [Day 13](Day%2013/IPtables%20Installation%20And%20Configuration.md) |
 | Day 14 | Linux Process Troubleshooting               | [Day 14](Day%2014/Linux%20Process%20Troubleshooting.md)             |
+| Day 15 | Setup SSL for Nginx                         | [Day 15](Day%2015/Setup%20SSL%20for%20Nginx.md)                     |
 
 ## Express Your Support
 
