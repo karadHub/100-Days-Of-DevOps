@@ -51,10 +51,11 @@ This repository contains my comprehensive solutions and learning journey through
 
 ### 🗄️ **Database & Services**
 
-| Day | Topic                                                                            | Key Technologies                                                                                            | Difficulty      |
-| --- | -------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | --------------- |
-| 9   | [MariaDB Troubleshooting](Day%209/MariaDB-Troubleshooting.md)                    | ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=mariadb&logoColor=white)            | 🟡 Intermediate |
-| 11  | [Install & Configure Tomcat Server](Day%2011/Install-Configure-Tomcat-Server.md) | ![Apache Tomcat](https://img.shields.io/badge/-Tomcat-F8DC75?style=flat&logo=apache-tomcat&logoColor=black) | 🟡 Intermediate |
+| Day | Topic                                                                                  | Key Technologies                                                                                            | Difficulty      |
+| --- | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | --------------- |
+| 9   | [MariaDB Troubleshooting](Day%209/MariaDB-Troubleshooting.md)                          | ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=mariadb&logoColor=white)            | 🟡 Intermediate |
+| 11  | [Install & Configure Tomcat Server](Day%2011/Install-Configure-Tomcat-Server.md)       | ![Apache Tomcat](https://img.shields.io/badge/-Tomcat-F8DC75?style=flat&logo=apache-tomcat&logoColor=black) | 🟡 Intermediate |
+| 17  | [Install and Configure PostgreSQL](Day%2017/Install%20and%20Configure%20PostgreSQL.MD) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)   | 🟡 Intermediate |
 
 ### 🌐 **Networking & Web Services**
 
