@@ -67,6 +67,7 @@ This repository contains my comprehensive solutions and learning journey through
 | 15  | [Setup SSL for Nginx](Day%2015/Setup%20SSL%20for%20Nginx.md)                                                | ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white) ![SSL](https://img.shields.io/badge/-SSL-000000?style=flat)                             | 🔴 Advanced     |
 | 16  | [Install & Configure Nginx as Load Balancer](Day%2016/Install%20and%20Configure%20Nginx%20as%20an%20LBR.md) | ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white)                                                                                         | 🔴 Advanced     |
 | 18  | [Configure LAMP server](Day%2018/Configure%20LAMP%20server.MD)                                              | ![Apache](https://img.shields.io/badge/-Apache-DA291C?style=flat&logo=apache&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) | 🟡 Intermediate |
+| 19  | [Install and Configure Web Application](Day%2019/Install%20and%20Configure%20Web%20Application.md)          | ![Apache](https://img.shields.io/badge/-Apache-DA291C?style=flat&logo=apache&logoColor=white)                                                                                      | 🟢 Beginner     |
 
 ## 🚀 Quick Start
 
