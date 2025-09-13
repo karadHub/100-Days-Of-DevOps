@@ -32,13 +32,14 @@ This repository contains my comprehensive solutions and learning journey through
 
 ### 🔧 **System Administration & Security**
 
-| Day | Topic                                                                                             | Key Technologies                                                                           | Difficulty      |
-| --- | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | --------------- |
-| 1   | [Linux User Setup with Non-Interactive Shell](Day%201/README.md)                                  | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) | 🟢 Beginner     |
-| 2   | [Temporary User Setup with Expiry](Day%202/Temporary%20User%20Setup%20with%20Expiry.md)           | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) | 🟢 Beginner     |
-| 3   | [Secure Root SSH Access](Day%203/Secure%20Root%20SSH%20Access.md)                                 | ![SSH](https://img.shields.io/badge/-SSH-000000?style=flat&logo=ssh&logoColor=white)       | 🟡 Intermediate |
-| 4   | [Script Execution Permissions](Day%204/Script%20Execution%20Permissions.md)                       | ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=white) | 🟢 Beginner     |
-| 5   | [SELinux Installation and Configuration](Day%205/SElinux%20Installation%20and%20Configuration.md) | ![SELinux](https://img.shields.io/badge/-SELinux-000000?style=flat)                        | 🔴 Advanced     |
+| Day | Topic                                                                                                      | Key Technologies                                                                           | Difficulty      |
+| --- | ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | --------------- |
+| 1   | [Linux User Setup with Non-Interactive Shell](Day%201/README.md)                                           | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) | 🟢 Beginner     |
+| 2   | [Temporary User Setup with Expiry](Day%202/Temporary%20User%20Setup%20with%20Expiry.md)                    | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) | 🟢 Beginner     |
+| 3   | [Secure Root SSH Access](Day%203/Secure%20Root%20SSH%20Access.md)                                          | ![SSH](https://img.shields.io/badge/-SSH-000000?style=flat&logo=ssh&logoColor=white)       | 🟡 Intermediate |
+| 4   | [Script Execution Permissions](Day%204/Script%20Execution%20Permissions.md)                                | ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=white) | 🟢 Beginner     |
+| 5   | [SELinux Installation and Configuration](Day%205/SElinux%20Installation%20and%20Configuration.md)          | ![SELinux](https://img.shields.io/badge/-SELinux-000000?style=flat)                        | 🔴 Advanced     |
+| 21  | [Set Up Git Repository on Storage Server](Day%2021/Set%20Up%20Git%20Repository%20on%20Storage%20Server.md) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)       | 🟢 Beginner     |
 
 ### 🔄 **Automation & Orchestration**
 
