@@ -40,6 +40,7 @@ This repository contains my comprehensive solutions and learning journey through
 | 4   | [Script Execution Permissions](Day%204/Script%20Execution%20Permissions.md)                                | ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=white) | 🟢 Beginner     |
 | 5   | [SELinux Installation and Configuration](Day%205/SElinux%20Installation%20and%20Configuration.md)          | ![SELinux](https://img.shields.io/badge/-SELinux-000000?style=flat)                        | 🔴 Advanced     |
 | 21  | [Set Up Git Repository on Storage Server](Day%2021/Set%20Up%20Git%20Repository%20on%20Storage%20Server.md) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)       | 🟢 Beginner     |
+| 22  | [Clone Git Repository on Storage Server](Day%2022/Clone%20Git%20Repository%20on%20Storage%20Server.md)     | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)       | 🟢 Beginner     |
 
 ### 🔄 **Automation & Orchestration**
 
