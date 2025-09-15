@@ -41,6 +41,7 @@ This repository contains my comprehensive solutions and learning journey through
 | 5   | [SELinux Installation and Configuration](Day%205/SElinux%20Installation%20and%20Configuration.md)          | ![SELinux](https://img.shields.io/badge/-SELinux-000000?style=flat)                        | 🔴 Advanced     |
 | 21  | [Set Up Git Repository on Storage Server](Day%2021/Set%20Up%20Git%20Repository%20on%20Storage%20Server.md) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)       | 🟢 Beginner     |
 | 22  | [Clone Git Repository on Storage Server](Day%2022/Clone%20Git%20Repository%20on%20Storage%20Server.md)     | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)       | 🟢 Beginner     |
+| 23  | [Fork a Git Repository](Day%2023/Fork%20a%20Git%20Repository.md)                                           | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)       | 🟢 Beginner     |
 
 ### 🔄 **Automation & Orchestration**
 

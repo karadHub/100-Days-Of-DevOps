@@ -1,9 +1,11 @@
 # Day 23: Fork a Git Repository
 
 ## 🎯 TASK
+
 A new developer, Jon, needs to fork an existing repository in the project's Gitea server so he can start working on it.
 
 Requirements:
+
 1. Open the Gitea UI via the top-bar Gitea button.
 2. Log in to the Gitea server as the `jon` user using password `Jon_pass123`.
 3. Locate the repository `sarah/story-blog` and fork it into Jon’s account.
@@ -15,11 +17,11 @@ Requirements:
 
 ## ✅ Solution (step-by-step)
 
-1) Open Gitea UI
+1. Open Gitea UI
 
 - Click the Gitea button on the top bar (or open the Gitea URL provided by your environment).
 
-2) Log in as `jon`
+2. Log in as `jon`
 
 - On the Gitea login page enter:
 
@@ -28,19 +30,19 @@ Requirements:
 
 - Click **Sign In**.
 
-3) Fork `sarah/story-blog`
+3. Fork `sarah/story-blog`
 
 - Use the search bar or navigate to the repository owner `sarah` and then to `story-blog`.
 - On the repository page, click the **Fork** button (usually top-right).
 - Choose the target account as `jon` (the UI will prompt where to fork). Confirm.
 - Wait for the fork to complete and capture a screenshot of the forked repo under `jon/story-blog`.
 
-4) Fork `Tork` (if present)
+4. Fork `Tork` (if present)
 
 - Locate the `Tork` repository via search.
 - Click **Fork** and select `jon` as the target account. Capture a screenshot after forking.
 
-5) Verification
+5. Verification
 
 - After forking, visit `jon/story-blog` (or `jon/Tork`) in Gitea and confirm the default branch exists and you can view files.
 - Optionally, clone the fork locally as `jon` to verify:
@@ -58,6 +60,7 @@ Replace `<gitea-host>` with the actual hostname.
 ## 📸 Screenshots & Recording
 
 - Capture these steps:
+
   - Login screen showing `jon` is logged in.
   - The original repository page (`sarah/story-blog`).
   - The action of clicking **Fork** and the fork confirmation.
