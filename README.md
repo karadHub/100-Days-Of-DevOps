@@ -43,6 +43,7 @@ This repository contains my comprehensive solutions and learning journey through
 | 22  | [Clone Git Repository on Storage Server](Day%2022/Clone%20Git%20Repository%20on%20Storage%20Server.md)     | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)       | 🟢 Beginner     |
 | 23  | [Fork a Git Repository](Day%2023/Fork%20a%20Git%20Repository.md)                                           | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)       | 🟢 Beginner     |
 | 24  | [Git Create Branches](Day%2024/Git%20Create%20Branches.md)                                                 | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)       | 🟢 Beginner     |
+| 25  | [Git Merge Branches](Day%2025/Git%20Merge%20Branches.md)                                                   | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)       | 🟢 Beginner     |
 
 ### 🔄 **Automation & Orchestration**
 
