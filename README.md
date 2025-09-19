@@ -45,6 +45,7 @@ This repository contains my comprehensive solutions and learning journey through
 | 24  | [Git Create Branches](Day%2024/Git%20Create%20Branches.md)                                                 | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)       | 🟢 Beginner     |
 | 25  | [Git Merge Branches](Day%2025/Git%20Merge%20Branches.md)                                                   | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)       | 🟢 Beginner     |
 | 26  | [Git Manage Remotes](Day%2026/Git%20Manage%20Remotes.md)                                                   | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)       | 🟢 Beginner     |
+| 27  | [Git Revert Some Changes](Day%2027/Git%20Revert%20Some%20Changes.md)                                       | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)       | 🟢 Beginner     |
 
 ### 🔄 **Automation & Orchestration**
 
