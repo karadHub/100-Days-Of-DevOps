@@ -47,7 +47,8 @@ This repository contains my comprehensive solutions and learning journey through
 | 26  | [Git Manage Remotes](Day%2026/Git%20Manage%20Remotes.md)                                                   | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)       | 🟢 Beginner     |
 | 27  | [Git Revert Some Changes](Day%2027/Git%20Revert%20Some%20Changes.md)                                       | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)       | 🟢 Beginner     |
 | 28  | [Git Cherry-Pick a Commit](Day%2028/Git%20Cherry%20Pick.md)                                                | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)       | 🟢 Beginner     |
-| 29  | [Manage Git Pull Requests](Day%2029/Manage%20Git%20Pull%20Requests.md)                                       | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)       | 🟢 Beginner     |
+| 29  | [Manage Git Pull Requests](Day%2029/Manage%20Git%20Pull%20Requests.md)                                     | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)       | 🟢 Beginner     |
+| 30  | [Git Hard Reset](Day%2030/Git%20hard%20reset.md)                                                           | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)       | 🟢 Beginner     |
 
 ### 🔄 **Automation & Orchestration**
 
