@@ -1,7 +1,5 @@
 # 🚀 100 Days of DevOps Challenge - KodeKloud Solutions
 
-<div align="center">
-
 ![DevOps](https://img.shields.io/badge/DevOps-100%20Days-blue?style=for-the-badge&logo=devdotto&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -15,7 +13,6 @@
 [![GitHub Issues](https://img.shields.io/github/issues/karadHub/100-Days-Of-DevOps)](https://github.com/karadHub/100-Days-Of-DevOps/issues)
 
 </div>
-
 ## 📖 About This Repository
 
 This repository contains my comprehensive solutions and learning journey through the **KodeKloud 100 Days of DevOps Challenge**. Each day focuses on practical, hands-on DevOps skills that are essential in modern software development and infrastructure management.
@@ -49,6 +46,7 @@ This repository contains my comprehensive solutions and learning journey through
 | 28  | [Git Cherry-Pick a Commit](Day%2028/Git%20Cherry%20Pick.md)                                                | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)       | 🟢 Beginner     |
 | 29  | [Manage Git Pull Requests](Day%2029/Manage%20Git%20Pull%20Requests.md)                                     | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)       | 🟢 Beginner     |
 | 30  | [Git Hard Reset](Day%2030/Git%20hard%20reset.md)                                                           | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)       | 🟢 Beginner     |
+| 31  | [Git Stash](Day%2031/Git%20Stash.md)                                                                       | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)       | 🟢 Beginner     |
 
 ### 🔄 **Automation & Orchestration**
 
