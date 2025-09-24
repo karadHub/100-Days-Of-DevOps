@@ -13,6 +13,7 @@
 [![GitHub Issues](https://img.shields.io/github/issues/karadHub/100-Days-Of-DevOps)](https://github.com/karadHub/100-Days-Of-DevOps/issues)
 
 </div>
+
 ## 📖 About This Repository
 
 This repository contains my comprehensive solutions and learning journey through the **KodeKloud 100 Days of DevOps Challenge**. Each day focuses on practical, hands-on DevOps skills that are essential in modern software development and infrastructure management.
@@ -47,6 +48,7 @@ This repository contains my comprehensive solutions and learning journey through
 | 29  | [Manage Git Pull Requests](Day%2029/Manage%20Git%20Pull%20Requests.md)                                     | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)       | 🟢 Beginner     |
 | 30  | [Git Hard Reset](Day%2030/Git%20hard%20reset.md)                                                           | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)       | 🟢 Beginner     |
 | 31  | [Git Stash](Day%2031/Git%20Stash.md)                                                                       | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)       | 🟢 Beginner     |
+| 32  | [Git Rebase](Day%2032/Git%20Rebase.md)                                                                     | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)       | 🟢 Beginner     |
 
 ### 🔄 **Automation & Orchestration**
 
