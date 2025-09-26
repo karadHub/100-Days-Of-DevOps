@@ -50,6 +50,7 @@ This repository contains my comprehensive solutions and learning journey through
 | 31  | [Git Stash](Day%2031/Git%20Stash.md)                                                                       | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)       | 🟢 Beginner     |
 | 32  | [Git Rebase](Day%2032/Git%20Rebase.md)                                                                     | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)       | 🟢 Beginner     |
 | 33  | [Resolve Git Merge Conflicts](Day%2033/Resolve%20Git%20Merge%20Conflicts.md)                               | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)       | 🟡 Intermediate |
+| 34  | [Git Hook — Auto-tag release on master push (post-update)](Day%2034/Git%20Hook.md)                         | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)       | 🟡 Intermediate |
 
 ### 🔄 **Automation & Orchestration**
 
