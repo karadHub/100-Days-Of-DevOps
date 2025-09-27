@@ -82,6 +82,14 @@ This repository contains my comprehensive solutions and learning journey through
 | 19  | [Install and Configure Web Application](Day%2019/Install%20and%20Configure%20Web%20Application.md)             | ![Apache](https://img.shields.io/badge/-Apache-DA291C?style=flat&logo=apache&logoColor=white)                                                                                      | 🟢 Beginner     |
 | 20  | [Configure Nginx + PHP-FPM Using Unix Sock](Day%2020/Configure%20Nginx%20+%20PHP-FPM%20Using%20Unix%20Sock.md) | ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)    | 🟡 Intermediate |
 
+## 🐳 Containers & Containerization
+
+| Day | Topic / Guide                                                                    | Tech / Badge                                                                                  | Level           |
+| --- | -------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | --------------- |
+| 35  | [Install Docker Packages and Start Docker Service](Day%2035/Install%20Docker.md) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) | 🟡 Intermediate |
+
+// ...existing code...
+
 ## 🚀 Quick Start
 
 1. **Clone the repository**
