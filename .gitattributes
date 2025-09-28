@@ -1,2 +1,8 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+*.md linguist-detectable=true
+*.sh linguist-language=Shell
+*.py linguist-language=Python
+*.yaml linguist-language=YAML
+*.yml linguist-language=YAML
+Dockerfile linguist-language=Dockerfile
