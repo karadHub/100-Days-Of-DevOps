@@ -89,6 +89,7 @@ This repository contains my comprehensive solutions and learning journey through
 | 35  | [Install Docker Packages and Start Docker Service](Day%2035/Install%20Docker.md)                                   | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) | 🟡 Intermediate |
 | 36  | [Deploy Nginx Container on Application Server](Day%2036/Deploy%20Nginx%20Container%20on%20Application%20Server.md) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) | 🟢 Beginner     |
 | 37  | [Copy File to Docker Container](Day%2037/Copy%20File%20to%20Docker%20Container.md)                                 | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) | 🟢 Beginner     |
+| 38  | [Pull Docker Image](Day%2038/Pull%20Docker%20Image.md)                                                             | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) | 🟢 Beginner     |
 
 ## 🚀 Quick Start
 
