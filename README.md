@@ -90,6 +90,7 @@ This repository contains my comprehensive solutions and learning journey through
 | 36  | [Deploy Nginx Container on Application Server](Day%2036/Deploy%20Nginx%20Container%20on%20Application%20Server.md) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) | 🟢 Beginner     |
 | 37  | [Copy File to Docker Container](Day%2037/Copy%20File%20to%20Docker%20Container.md)                                 | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) | 🟢 Beginner     |
 | 38  | [Pull Docker Image](Day%2038/Pull%20Docker%20Image.md)                                                             | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) | 🟢 Beginner     |
+| 39  | [Create a Docker Image From Container](Day%2039/Create%20a%20Docker%20Image%20From%20Container.md)                 | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) | 🟢 Beginner     |
 
 ## 🚀 Quick Start
 
