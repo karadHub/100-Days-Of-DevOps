@@ -91,6 +91,7 @@ This repository contains my comprehensive solutions and learning journey through
 | 37  | [Copy File to Docker Container](Day%2037/Copy%20File%20to%20Docker%20Container.md)                                 | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) | 🟢 Beginner     |
 | 38  | [Pull Docker Image](Day%2038/Pull%20Docker%20Image.md)                                                             | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) | 🟢 Beginner     |
 | 39  | [Create a Docker Image From Container](Day%2039/Create%20a%20Docker%20Image%20From%20Container.md)                 | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) | 🟢 Beginner     |
+| 40  | [Docker EXEC Operations](Day%2040/Docker%20EXEC%20Operations.md)                                                   | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) | 🟢 Beginner     |
 
 ## 🚀 Quick Start
 
