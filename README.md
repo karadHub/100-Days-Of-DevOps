@@ -95,6 +95,7 @@ This repository contains my comprehensive solutions and learning journey through
 | 41  | [Write a Docker File](Day%2041/Write%20a%20Docker%20File.md)                                                       | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) | 🟢 Beginner     |
 | 42  | [Create a Docker Network](Day%2042/Create%20a%20Docker%20Network.md)                                               | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) | 🟡 Intermediate |
 | 43  | [Docker Ports Mapping](Day%2043/Docker%20Ports%20Mapping.md)                                                       | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) | 🟢 Beginner     |
+| 44  | [Write a Docker Compose File](Day%2044/Write%20a%20Docker%20Compose%20File.md)                                     | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) | 🟡 Intermediate |
 
 ## 🚀 Quick Start
 
