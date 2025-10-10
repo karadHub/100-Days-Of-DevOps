@@ -100,6 +100,12 @@ This repository contains my comprehensive solutions and learning journey through
 | 46  | [Deploy an App on Docker Containers](Day%2046/Deploy%20an%20App%20on%20Docker%20Containers.md)                     | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) | 🟡 Intermediate |
 | 47  | [Docker Python App](Day%2047/Docker%20Python%20App.md)                                                             | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) | 🟡 Intermediate |
 
+## ☸️ Kubernetes & Orchestration
+
+| Day | Topic / Guide                                                                              | Tech / Badge                                                                                              | Level       |
+| --- | ------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------- | ----------- |
+| 48  | [Deploy Pods in Kubernetes Cluster](Day%2048/Deploy%20Pods%20in%20Kubernetes%20Cluster.md) | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) | 🟢 Beginner |
+
 ## 🚀 Quick Start
 
 1. **Clone the repository**
