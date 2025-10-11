@@ -102,9 +102,10 @@ This repository contains my comprehensive solutions and learning journey through
 
 ## ☸️ Kubernetes & Orchestration
 
-| Day | Topic / Guide                                                                              | Tech / Badge                                                                                              | Level       |
-| --- | ------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------- | ----------- |
-| 48  | [Deploy Pods in Kubernetes Cluster](Day%2048/Deploy%20Pods%20in%20Kubernetes%20Cluster.md) | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) | 🟢 Beginner |
+| Day | Topic / Guide                                                                                                          | Tech / Badge                                                                                              | Level       |
+| --- | ---------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ----------- |
+| 48  | [Deploy Pods in Kubernetes Cluster](Day%2048/Deploy%20Pods%20in%20Kubernetes%20Cluster.md)                             | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) | 🟢 Beginner |
+| 49  | [Deploy Applications with Kubernetes Deployments](Day%2049/Deploy%20Applications%20with%20Kubernetes%20Deployments.md) | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) | 🟢 Beginner |
 
 ## 🚀 Quick Start
 
