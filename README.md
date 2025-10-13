@@ -107,6 +107,7 @@ This repository contains my comprehensive solutions and learning journey through
 | 48  | [Deploy Pods in Kubernetes Cluster](Day%2048/Deploy%20Pods%20in%20Kubernetes%20Cluster.md)                             | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) | 🟢 Beginner     |
 | 49  | [Deploy Applications with Kubernetes Deployments](Day%2049/Deploy%20Applications%20with%20Kubernetes%20Deployments.md) | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) | 🟢 Beginner     |
 | 50  | [Set Resource Limits in Kubernetes Pods](Day%2050/Set%20Resource%20Limits%20in%20Kubernetes%20Pods.md)                 | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) | 🟡 Intermediate |
+| 51  | [Execute Rolling Updates in Kubernetes](Day%2051/Execute%20Rolling%20Updates%20in%20Kubernetes.md)                     | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) | 🟡 Intermediate |
 
 ## 🚀 Quick Start
 
