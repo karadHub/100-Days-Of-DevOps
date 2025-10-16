@@ -109,8 +109,8 @@ This repository contains my comprehensive solutions and learning journey through
 | 50  | [Set Resource Limits in Kubernetes Pods](Day%2050/Set%20Resource%20Limits%20in%20Kubernetes%20Pods.md)                             | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) | 🟡 Intermediate |
 | 51  | [Execute Rolling Updates in Kubernetes](Day%2051/Execute%20Rolling%20Updates%20in%20Kubernetes.md)                                 | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) | 🟡 Intermediate |
 | 52  | [Revert Deployment to Previous Version in Kubernetes](Day%2052/Revert%20Deployment%20to%20Previous%20Version%20in%20Kubernetes.md) | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) | 🟡 Intermediate |
-| 51  | [Execute Rolling Updates in Kubernetes](Day%2051/Execute%20Rolling%20Updates%20in%20Kubernetes.md)                                 | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) | 🟡 Intermediate |
-| 53  | [Resolve VolumeMounts Issue in Kubernetes](Day%2053/Resolve%20VolumeMounts%20Issue%20in%20Kubernetes.md)                           | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) | 🔴 Advanced     |
+| 53  | [Resolve VolumeMounts Issue in Kubernetes](Day%2053/Resolve%20VolumeMounts%20Issue%20in%20Kubernetes.md)                           | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) | � Advanced      |
+| 54  | [Kubernetes Shared Volumes](Day%2054/Kubernetes%20Shared%20Volumes.md)                                                             | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) | � Intermediate  |
 
 ## 🚀 Quick Start
 
