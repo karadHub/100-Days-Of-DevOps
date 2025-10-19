@@ -113,6 +113,7 @@ This repository contains my comprehensive solutions and learning journey through
 | 54  | [Kubernetes Shared Volumes](Day%2054/Kubernetes%20Shared%20Volumes.md)                                                             | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) | 🟡 Intermediate |
 | 55  | [Kubernetes Sidecar Containers](Day%2055/Kubernetes%20Sidecar%20Containers.md)                                                     | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) | 🟡 Intermediate |
 | 56  | [Deploy Nginx Web Server on Kubernetes Cluster](Day%2056/Deploy%20Nginx%20Web%20Server%20on%20Kubernetes%20Cluster.md)             | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) | 🟢 Beginner     |
+| 57  | [Print Environment Variables](Day%2057/Print%20Environment%20Variables.md)                                                         | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) | 🟢 Beginner     |
 
 ## 🚀 Quick Start
 
