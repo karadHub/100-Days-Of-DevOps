@@ -120,6 +120,7 @@ This repository contains my comprehensive solutions and learning journey through
 | 61  | [Init Containers in Kubernetes](Day%2061/Init%20Containers%20in%20Kubernetes.md)                                                   | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) | 🟡 Intermediate |
 | 62  | [Manage Secrets in Kubernetes](Day%2062/Manage%20Secrets%20in%20Kubernetes.md)                                                     | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) | 🟡 Intermediate |
 | 63  | [Deploy Iron Gallery App on Kubernetes](Day%2063/Deploy%20Iron%20Gallery%20App%20on%20Kubernetes.md)                               | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) | 🔴 Advanced     |
+| 64  | [Fix Python App Deployed on Kubernetes Cluster](Day%2064/Fix%20Python%20App%20Deployed%20on%20Kubernetes%20Cluster.md)             | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) | 🟡 Intermediate |
 
 ## 🚀 Quick Start
 
