@@ -118,6 +118,7 @@ This repository contains my comprehensive solutions and learning journey through
 | 59  | [Troubleshoot Deployment issues in Kubernetes](Day%2059/Troubleshoot%20Deployment%20issues%20in%20Kubernetes.md)                   | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) | 🟡 Intermediate |
 | 60  | [Persistent Volumes in Kubernetes](Day%2060/Persistent%20Volumes%20in%20Kubernetes.md)                                             | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) | 🟡 Intermediate |
 | 61  | [Init Containers in Kubernetes](Day%2061/Init%20Containers%20in%20Kubernetes.md)                                                   | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) | 🟡 Intermediate |
+| 62  | [Manage Secrets in Kubernetes](Day%2062/Manage%20Secrets%20in%20Kubernetes.md)                                                     | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) | 🟡 Intermediate |
 
 ## 🚀 Quick Start
 
