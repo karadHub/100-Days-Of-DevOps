@@ -123,6 +123,7 @@ This repository contains my comprehensive solutions and learning journey through
 | 64  | [Fix Python App Deployed on Kubernetes Cluster](Day%2064/Fix%20Python%20App%20Deployed%20on%20Kubernetes%20Cluster.md)             | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) | 🟡 Intermediate |
 | 65  | [Deploy Redis Deployment on Kubernetes](Day%2065/Deploy%20Redis%20Deployment%20on%20Kubernetes.md)                                 | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) | 🟢 Beginner     |
 | 66  | [Deploy MySQL on Kubernetes](Day%2066/Deploy%20MySQL%20on%20Kubernetes.md)                                                         | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) | 🟡 Intermediate |
+| 67  | [Deploy Guest Book App on Kubernetes](Day%2067/Deploy%20Guest%20Book%20App%20on%20Kubernetes.md)                                   | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) | 🔴 Advanced     |
 
 ## 🚀 Quick Start
 
