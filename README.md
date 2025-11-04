@@ -125,13 +125,14 @@ This repository contains my comprehensive solutions and learning journey through
 | 66  | [Deploy MySQL on Kubernetes](Day%2066/Deploy%20MySQL%20on%20Kubernetes.md)                                                         | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) | 🟡 Intermediate |
 | 67  | [Deploy Guest Book App on Kubernetes](Day%2067/Deploy%20Guest%20Book%20App%20on%20Kubernetes.md)                                   | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) | 🔴 Advanced     |
 
-## � CI/CD & Automation Servers
+## 🔄 CI/CD & Automation Servers
 
-| Day | Topic / Guide                                                    | Tech / Badge                                                                                     | Level           |
-| --- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | --------------- |
-| 68  | [Set Up Jenkins Server](Day%2068/Set%20Up%20Jenkins%20Server.md) | ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) | 🟡 Intermediate |
+| Day | Topic / Guide                                                      | Tech / Badge                                                                                     | Level           |
+| --- | ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ | --------------- |
+| 68  | [Set Up Jenkins Server](Day%2068/Set%20Up%20Jenkins%20Server.md)   | ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) | 🟡 Intermediate |
+| 69  | [Install Jenkins Plugins](Day%2069/Install%20Jenkins%20Plugins.MD) | ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) | 🟢 Beginner     |
 
-## �🚀 Quick Start
+## � Quick Start
 
 1. **Clone the repository**
 
