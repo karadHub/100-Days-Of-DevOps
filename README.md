@@ -127,12 +127,13 @@ This repository contains my comprehensive solutions and learning journey through
 
 ## 🔄 CI/CD & Automation Servers
 
-| Day | Topic / Guide                                                      | Tech / Badge                                                                                     | Level           |
-| --- | ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ | --------------- |
-| 68  | [Set Up Jenkins Server](Day%2068/Set%20Up%20Jenkins%20Server.md)   | ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) | 🟡 Intermediate |
-| 69  | [Install Jenkins Plugins](Day%2069/Install%20Jenkins%20Plugins.MD) | ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) | 🟢 Beginner     |
+| Day | Topic / Guide                                                                    | Tech / Badge                                                                                     | Level           |
+| --- | -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | --------------- |
+| 68  | [Set Up Jenkins Server](Day%2068/Set%20Up%20Jenkins%20Server.md)                 | ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) | 🟡 Intermediate |
+| 69  | [Install Jenkins Plugins](Day%2069/Install%20Jenkins%20Plugins.MD)               | ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) | 🟢 Beginner     |
+| 70  | [Configure Jenkins User Access](Day%2070/Configure%20Jenkins%20User%20Access.md) | ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) | 🟡 Intermediate |
 
-## � Quick Start
+## 🚀 Quick Start
 
 1. **Clone the repository**
 
