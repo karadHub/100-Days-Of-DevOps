@@ -134,6 +134,7 @@ This repository contains my comprehensive solutions and learning journey through
 | 70  | [Configure Jenkins User Access](Day%2070/Configure%20Jenkins%20User%20Access.md)                                       | ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) | 🟡 Intermediate |
 | 71  | [Configure Jenkins Job for Package Installation](Day%2071/Configure%20Jenkins%20Job%20for%20Package%20Installation.md) | ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) | 🟡 Intermediate |
 | 72  | [Jenkins Parameterized Builds](Day%2072/Jenkins%20Parameterized%20Builds.md)                                           | ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) | 🟢 Beginner     |
+| 73  | [Jenkins Scheduled Jobs](Day%2073/Jenkins%20Scheduled%20Jobs.md)                                                       | ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) | 🟡 Intermediate |
 
 ## 🚀 Quick Start
 
